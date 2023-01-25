@@ -5,9 +5,9 @@ Topsis-Khushmeet-102053011 is a Python library for dealing with Multiple Criteri
 
 ##Installation
 
-Use the package manager pip to install Topsis-Khushmeet-102053011.
+Use the package manager pip to install TOPSIS-Khushmeet-102053011.
 
-```pip install Topsis-Khushmeet-102053011```
+```pip install TOPSIS-Khushmeet-102053011```
 
 
 ##How to use it?
