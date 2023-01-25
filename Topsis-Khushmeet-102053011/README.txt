@@ -1,6 +1,6 @@
 # TOPSIS-Khushmeet-102053011
 
-Topsis-Khushmeet-102053011 is a Python library for dealing with Multiple Criteria Decision Making(MCDM) problems by using Technique for Order of Preference by Similarity to Ideal Solution(TOPSIS).
+TOPSIS-Khushmeet-102053011 is a Python library for dealing with Multiple Criteria Decision Making(MCDM) problems by using Technique for Order of Preference by Similarity to Ideal Solution(TOPSIS).
 
 
 ##Installation
